@@ -1,0 +1,29 @@
+body{
+    background: #ff6666;
+    cursor: pointer;
+    font-family: 'Righteous', sans-serif;
+}
+
+.advice{
+    font-size: 150px;
+    position: relative;
+    left: 10%;
+}
+
+.hide{
+    display: none;
+}
+
+.container__code{
+    position: relative;
+    font-size: 250px;
+    top: 100px;
+    left: 38%;
+}
+
+.container__letter{
+    font-size: 150px;
+    position: relative;
+    top: 60px;
+    left: 46%;
+}
